@@ -1,6 +1,6 @@
 # BoxBrawler
 
-##Creación de videojuegos
+## Creación de videojuegos
 
 ## Contenido
 
